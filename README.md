@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sudheer0418@gmail.com**
 
-- 📄 Know about my experiences [Associate Software Engineer @FortRise Business Solutions](Associate Software Engineer @FortRise Business Solutions)
+- 📄 Know about my experiences [Associate Software Engineer @FortRise Business Solutions]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
