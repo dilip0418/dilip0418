@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dilip-kumar-bk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilip kumar b k" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sudheer0418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sudheer0418" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sudheer0418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sudheer0418" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dilip0418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dilip0418" height="30" width="40" /></a>
   <a href="https://www.naukri.com/code360/profile/b08976cd-3f7e-4f06-b9ce-6eb5130b1c6c" target="_blank"><img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="dilipSudheer" height="30" width="40"/></a>
   <a href="https://www.geeksforgeeks.org/user/sudheer0418/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="_blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="dilipSudheer" height="30" width="40"/></a>
